@@ -1,0 +1,3 @@
+<?php
+  $installed = false;
+?>
